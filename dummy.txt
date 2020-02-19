@@ -1,1 +1,1 @@
-This is a new dummy file.
+These are two new dummy files and I have changed the context to resolve the merge conflict
